@@ -1,6 +1,6 @@
 # Labyrinth Project 🐢
 
-Labyrinth-project is a school Python project that generates and solves mazes using Turtle and Tkinter.
+Labyrinth Project is a school Python project that generates and solves mazes using Turtle and Tkinter.
 
 ## 🚀 Features 
 - User-friendly interface using Tkinter interface module.
