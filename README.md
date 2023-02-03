@@ -1,4 +1,5 @@
 <div style="text-align: center;">
+
 # Labyrinth Project 🐢
 
 Labyrinth Project is a school Python project that generates and solves mazes using Turtle and Tkinter.
