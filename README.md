@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 # Labyrinth Project 🐢
 
 Labyrinth Project is a school Python project that generates and solves mazes using Turtle and Tkinter.
@@ -27,3 +28,4 @@ You will then be prompted to select a mode of resolution (manual or automatic) a
 Here is an example of a random generated maze resolved by the algorithm :
 
 <img src="/images/demo.gif" height="500">
+</div>
