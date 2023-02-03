@@ -28,4 +28,4 @@ You will then be prompted to select a mode of resolution (manual or automatic) a
 ## 🖼️ Example
 Here is an example of a random generated maze resolved by the algorithm :
 
-<img src="/images/demo.gif" height="500">
+<img src="/images/demo.gif" height="500"> 
