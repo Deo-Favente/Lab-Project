@@ -22,3 +22,8 @@ To use the script, simply run the following command in your terminal or command 
 ```python
 python main.py
 ```
+You will then be prompted to select a mode of resolution (manual or automatic) and to choose a labyrinth. Once the maze has been resolved, the solution will be displayed on screen.
+
+## Example
+Here is an example of a random generated maze resolved by the algorithm :
+![](example.png)
