@@ -26,8 +26,6 @@ chemin = []
 grille = None
 
 # FONCTIONS DU SUJET ET AUTRES FONCTIONS POUR LA PARTIE - TURTLE
-
-
 def afficheGraphique(dicoJeu, epaisseur=0, fichier=None):
     '''
     Affiche le labyrinthe dans une fenêtre graphique.
